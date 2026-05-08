@@ -32,7 +32,9 @@ Metrics storage:
 - https://www.influxdata.com/
 
 Logs:
-https://github.com/grafana/loki - Prometheus inspired log storage
+
+- https://github.com/grafana/loki - Prometheus inspired log storage
+- https://middleware.io/product/log-monitoring/ - unified log monitoring with AI driven insight
 
 Useful guides:
 - https://timber.io/blog/promql-for-humans/
